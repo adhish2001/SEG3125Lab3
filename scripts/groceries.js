@@ -66,6 +66,20 @@ var products = [
 		price: 4.99
 	},
 	{
+		name: "Coriander",
+		LactoseIntol: true,
+		AllergicNuts: true,
+		both:true,
+		price: 6.00
+	},
+	{
+		name: "Cardamon",
+		LactoseIntol: true,
+		AllergicNuts: true,
+		both:true,
+		price: 5.00
+	},
+	{
 		name: "Whole Chicken",
 		LactoseIntol: true,
 		AllergicNuts: true,
